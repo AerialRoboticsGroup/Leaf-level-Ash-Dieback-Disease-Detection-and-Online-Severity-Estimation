@@ -18,11 +18,12 @@ Welcome to the **Ash Dieback Leaf Detection** repository! This project demonstra
 ---
 
 ## **Overview**
-Ash dieback disease (Chalara) is a fungal infection causing severe damage to ash trees. **Early detection—particularly at the leaf level—can significantly aid conservation efforts.** Our work:
+Ash dieback disease (Chalara) is a fungal infection causing severe damage to ash trees. **Early detection can 
+significantly aid conservation efforts.** Our work:
 
-- **Generates a synthetic leaf dataset** (healthy, early-stage infection, mid-stage infection) to train YOLOv5.
+- **Generates a synthetic leaf dataset** (healthy, early-stage infection, mid-stage infection) to train a YOLOv5 model.
 - Demonstrates **disease detection and severity estimation** at the leaf level, with emphasis on **Google Colab** workflows.
-- Provides **`.ipynb` notebooks** tailored for Colab that let you experiment, train, and test quickly.
+- Provides **`.ipynb` notebooks** where you can train the model, test it, and explore image processing techniques.
 
 For more details, see our IEEE publication:  
 > [Leaf Level Ash Dieback Disease Detection and Online Severity Estimation with UAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10884769)
