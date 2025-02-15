@@ -11,12 +11,9 @@ Welcome to the **Ash Dieback Leaf Detection** repository! This project demonstra
 ## **Table of Contents**
 1. [Overview](#overview)
 2. [Repository Structure](#repository-structure)
-3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Dataset](#dataset)
 6. [Citation](#citation)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
 
 ---
 
