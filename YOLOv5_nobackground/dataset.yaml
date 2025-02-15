@@ -1,0 +1,7 @@
+
+path: /content/gdrive/MyDrive/Leaves_Project/Colab_Notebooks/YOLOv5_nobackground/images  # Root directory of dataset
+train: train  # Folder containing training images
+val: val  # Folder containing validation images
+test: test  # Updated path for test labels
+nc: 4  # Number of classes (excluding high_level_infection)
+names: ["healthy","low_level_infection", "mid_level_infection","high_level_infection"]
