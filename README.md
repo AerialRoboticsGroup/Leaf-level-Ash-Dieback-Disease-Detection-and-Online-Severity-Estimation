@@ -38,8 +38,8 @@ Below is a snapshot of the project folders (with the most relevant files):
 Ash_dieback_detection_leaf/
 ├── AllLeaves/
 ├── Experimentation/
-    ├── Exploring_CV_techniques.ipynb
-    └──  More_CV_trial&error.ipynb
+│   ├── Exploring_CV_techniques.ipynb
+│   └──  More_CV_trial&error.ipynb
 ├── YOLOv5_nobackground/
 │   ├── images/
 │   │   ├── train/
